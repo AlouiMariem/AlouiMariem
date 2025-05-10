@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
     <img src="https://agexis.com/assets/icons/logo-agex.webp" width="80" height="50" alt="Agexis">
   </a>
    <a href="https://mur-mur.fr/" target="_blank">
-    <img src="https://agexis.com/assets/assets/icons/mur-mur-logo.webp" width="80" height="50" alt="Mur-Mur">
+    <img src="https://mur-mur.fr/assets/icons/mur-mur-logo.webp" width="80" height="50" alt="Mur-Mur">
   </a>
   <a href="https://www.ab-engineering.fr/" target="_blank">
     <img src="https://www.ab-engineering.fr/assets/logo.webp" width="50" height="60" alt="AB Engineering">
