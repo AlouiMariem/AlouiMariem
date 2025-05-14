@@ -44,8 +44,8 @@ Here are some of the projects I've worked on:
   <a href="https://www.welldup.com/" target="_blank">
     <img src="https://www.welldup.com/assets/icons/logo-menu.webp" width="80" height="45" alt="Welldup">
   </a>
-  <a href="https://www.finky-consulting.com/" target="_blank">
-    <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="80" height="45" alt="Finky Consulting">
+  <a href="https://www.renov-en-main.fr/" target="_blank">
+    <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="80" height="45" alt="Renov-en-main">
   </a>
   <a href="https://www.inchaate.com/" target="_blank">
     <img src="https://www.inchaate.com/assets/icons/inchaate-logo.webp" width="70" height="45" alt="Inchaate">
