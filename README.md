@@ -51,7 +51,7 @@ Here are some of the projects I've worked on:
     <img src="https://www.inchaate.com/assets/icons/logo.webp" width="70" height="45" alt="Inchaate">
   </a>
    <a href="https://inchaate.fr/" target="_blank">
-    <img src="https://www.giovanni-juvara.com/assets/icons/inchaate-logo.webp" width="80" height="50" alt="Giovanni-Juvara">
+    <img src="https://inchaate.fr/assets/icons/inchaate-logo.webp" width="80" height="50" alt="Giovanni-Juvara">
   </a>
     <a href="https://www.giovanni-juvara.com/" target="_blank">
     <img src="https://www.giovanni-juvara.com/assets/images/navbar-logo.webp" width="80" height="50" alt="Giovanni-Juvara">
