@@ -51,14 +51,17 @@ Here are some of the projects I've worked on:
     <img src="https://www.inchaate.com/assets/icons/logo.webp" width="70" height="45" alt="Inchaate">
   </a>
    <a href="https://inchaate.fr/" target="_blank">
-    <img src="https://inchaate.fr/assets/icons/inchaate-logo.webp" width="80" height="50" alt="Giovanni-Juvara">
+    <img src="https://inchaate.fr/assets/icons/inchaate-logo.webp" width="80" height="50" alt="inchaate">
   </a>
     <a href="https://www.giovanni-juvara.com/" target="_blank">
     <img src="https://www.giovanni-juvara.com/assets/images/navbar-logo.webp" width="80" height="50" alt="Giovanni-Juvara">
   </a>
    </a>
     <a href="https://www.architectis.fr/" target="_blank">
-    <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" width="80" height="50" alt="Giovanni-Juvara">
+    <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" width="80" height="50" alt="architectis">
+  </a>
+   <a href="https://reno-deco.fr/" target="_blank">
+    <img src="https://reno-deco.fr/assets/icons/logo.webp" width="80" height="50" alt="reno deco">
   </a>
 </div>
 
