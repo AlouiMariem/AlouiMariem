@@ -56,6 +56,10 @@ Here are some of the projects I've worked on:
     <a href="https://www.giovanni-juvara.com/" target="_blank">
     <img src="https://www.giovanni-juvara.com/assets/images/navbar-logo.webp" width="80" height="50" alt="Giovanni-Juvara">
   </a>
+   </a>
+    <a href="https://www.architectis.fr/" target="_blank">
+    <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" width="80" height="50" alt="Giovanni-Juvara">
+  </a>
 </div>
 
 ---
